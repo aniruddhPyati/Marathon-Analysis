@@ -12,3 +12,7 @@ The dataset contains 7,461,226 ultra-marathon race records from 1,641,168 unique
 The Event distance/length column describes the type of race, covering the most popular UM race distances and lengths, and some other specific modalities (multi-day, etc.):
 Distances: 50km, 100km, 50mi, 100mi
 Lengths: 6h, 12h, 24h, 48h, 72h, 6d, 10d
+
+Tools Used :
+
+Python, MS Excel, Pandas, Seaborn
