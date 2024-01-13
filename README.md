@@ -16,3 +16,11 @@ Lengths: 6h, 12h, 24h, 48h, 72h, 6d, 10d
 Tools Used :
 
 Python, MS Excel, Pandas, Seaborn
+
+Preview :
+
+![image](https://github.com/aniruddhPyati/Marathon-Analysis/assets/90457264/33cdfa85-bf31-48c4-8151-aaf2a3841ff7)
+
+![image](https://github.com/aniruddhPyati/Marathon-Analysis/assets/90457264/10442126-d333-4371-a736-9b08c65e2e37)
+
+
